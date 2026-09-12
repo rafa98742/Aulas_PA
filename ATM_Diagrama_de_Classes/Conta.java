@@ -47,7 +47,7 @@ public double Consulta(){//(+) Publico: Metodo de culsulta Ira mostra o saldo da
     // Return é usado para volta para o usuario a variavel saldo da conta
     return saldo;
 }
-public void Exibir(){//(+) Metodo que exibi os dados da conta da Pessoa 
+public void Exibir(){//(+) Publico: Metodo que exibi os dados da conta da Pessoa 
     // Mensagens que Apareceram para o usuario quando chamar seus dados
     System.out.println("O Numero da sua conta é: " + Numero);
     System.out.println("Nome do Usuario: " +  Nome);
