@@ -1,6 +1,6 @@
 
 package sistemadecomandas;
-
+// Classe Pedido para conectar a main SistemasdeComandas 
 public class Pedidos {
     private int ID;// (-)  Variavel Privada do tipo inteiro para armazenar o ID do pedido
     private Comandas[]Pedido = new Comandas[0]; // (-)  Variavel Privada do tipo Comandas[] para armazenar o vetor/array de comandas do pedido

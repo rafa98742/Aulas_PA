@@ -1,6 +1,6 @@
 
 package sistemadecomandas;
-
+// Classe Item de Consumação para conectar a main SistemasdeCoamandas
 public class ItemConsumacao {
     private String Nome;// (-)  Variavel Privada do tipo String para armazenar o Nome do item de consumo
     private double Preço;// (-)  Variavel Privada do tipo double para armazenar o Preço do item de consumo

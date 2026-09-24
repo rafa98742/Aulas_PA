@@ -1,6 +1,6 @@
 
 package sistemadecomandas;
-
+// classe Coamanda para conectar a main de SistemadeComandas
 public class Comandas {
     private int ID; // (-)  Variavel Privada do tipo inteiro para armazenar o ID da comanda
     private int NumeroDaComanda; // (-)  Variavel Privada do tipo inteiro para armazenar o Numero da comanda
