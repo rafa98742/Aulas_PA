@@ -1,0 +1,3 @@
+com\produto\api\ApiApplication.class
+com\produto\api\controller\ProdutoController.class
+com\produto\api\model\Produto.class
